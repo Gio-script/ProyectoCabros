@@ -1,0 +1,436 @@
+[
+  {
+    "kind": "customsearch#result",
+    "title": "Untitled",
+    "htmlTitle": "Untitled",
+    "link": "https://biblus.us.es/bibing/proyectos/abreproy/12091/fichero/base+de+datos%252Fbbddjara%252FbbddJARA_MyISAM.sql",
+    "displayLink": "biblus.us.es",
+    "snippet": "-- MySQL dump 9.11 -- -- Host: localhost Database: -- ------------------------------------------------------ -- Server version 4.0.24_Debian-10-log ...",
+    "htmlSnippet": "-- <b>MySQL dump</b> 9.11 -- -- Host: localhost Database: -- ------------------------------------------------------ -- Server version 4.0.24_Debian-10-log&nbsp;...",
+    "formattedUrl": "https://biblus.us.es/.../base+de+datos%252Fbbddjara%252FbbddJARA_MyI...",
+    "htmlFormattedUrl": "https://biblus.us.es/.../base+de+datos%252Fbbddjara%252FbbddJARA_MyI...",
+    "mime": "text/plain",
+    "fileFormat": "text/plain"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "rnc_app/db/backup_rncdb.sql at master",
+    "htmlTitle": "rnc_app/db/backup_rncdb.sql at master",
+    "link": "https://github.com/SIB-Colombia/rnc_app/blob/master/db/backup_rncdb.sql",
+    "displayLink": "github.com",
+    "snippet": "... metadata and controls. Code. Blame. 714 lines (623 loc) · 406 KB. Raw. -- MySQL dump 10.13 Distrib 5.5.34, for Linux (x86_64) -- -- Host: localhost Database: ...",
+    "htmlSnippet": "... metadata and controls. Code. Blame. 714 lines (623 loc) · 406 KB. Raw. -- <b>MySQL dump</b> 10.13 Distrib 5.5.34, for Linux (x86_64) -- -- Host: localhost Database:&nbsp;...",
+    "formattedUrl": "https://github.com/SIB-Colombia/rnc_app/blob/.../db/backup_rncdb.sql",
+    "htmlFormattedUrl": "https://github.com/SIB-Colombia/rnc_app/blob/.../db/backup_rncdb.sql",
+    "pagemap": {
+      "cse_thumbnail": [
+        {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVexIWeAatS8Dwzru7Rc73OKnciiBXHeYoRPY02Ke183RfQeTjBWX_Rk0&s",
+          "width": "318",
+          "height": "159"
+        }
+      ],
+      "softwaresourcecode": [
+        {
+          "author": "SIB-Colombia",
+          "name": "rnc_app"
+        }
+      ],
+      "metatags": [
+        {
+          "octolytics-url": "https://collector.github.com/github/collect",
+          "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/SIB-Colombia/rnc_app/blob/master/db/backup_rncdb.sql",
+          "og:image": "https://opengraph.githubassets.com/99b4eadbe2ab2211dc189e05a8c7eacdb0f8587c5b5624d1ee345a9f667b45b2/SIB-Colombia/rnc_app",
+          "twitter:card": "summary_large_image",
+          "og:image:width": "1200",
+          "theme-color": "#1e2327",
+          "og:site_name": "GitHub",
+          "hovercard-subject-tag": "repository:14450555",
+          "turbo-body-classes": "logged-out env-production page-responsive",
+          "release": "3aeab2d22e61086649890084e855e45b788c253b",
+          "html-safe-nonce": "0921ac7b13ca7a00f053030e142e91ede1f928cddf0c031e917cb830fb50bac7",
+          "expected-hostname": "github.com",
+          "og:description": "National Colection Register. Contribute to SIB-Colombia/rnc_app development by creating an account on GitHub.",
+          "twitter:image": "https://opengraph.githubassets.com/99b4eadbe2ab2211dc189e05a8c7eacdb0f8587c5b5624d1ee345a9f667b45b2/SIB-Colombia/rnc_app",
+          "browser-errors-url": "https://api.github.com/_private/browser/errors",
+          "octolytics-dimension-user_login": "SIB-Colombia",
+          "hostname": "github.com",
+          "twitter:site": "@github",
+          "browser-stats-url": "https://api.github.com/_private/browser/stats",
+          "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+          "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDNkY2OjJFRUVBMzoxNkE2NzFBOjFFOTE4OTQ6NjdFMzY2NjYiLCJ2aXNpdG9yX2lkIjoiMzU5NDcxNDQ0MjUyODY3OTU0NCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+          "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+          "octolytics-dimension-repository_id": "14450555",
+          "octolytics-dimension-repository_network_root_nwo": "SIB-Colombia/rnc_app",
+          "twitter:title": "rnc_app/db/backup_rncdb.sql at master · SIB-Colombia/rnc_app",
+          "og:image:alt": "National Colection Register. Contribute to SIB-Colombia/rnc_app development by creating an account on GitHub.",
+          "og:type": "object",
+          "og:title": "rnc_app/db/backup_rncdb.sql at master · SIB-Colombia/rnc_app",
+          "visitor-hmac": "c2b20d515fa32f0dc9ea34c92982b5993d92a42ede462eacb4ea7ff84f912aa9",
+          "og:image:height": "600",
+          "turbo-cache-control": "no-preview",
+          "route-action": "show",
+          "request-id": "C6F6:2EEEA3:16A671A:1E91894:67E36666",
+          "analytics-location": "/<user-name>/<repo-name>/blob/show",
+          "color-scheme": "light dark",
+          "octolytics-dimension-repository_is_fork": "false",
+          "go-import": "github.com/SIB-Colombia/rnc_app git https://github.com/SIB-Colombia/rnc_app.git",
+          "octolytics-dimension-user_id": "3706920",
+          "octolytics-dimension-repository_public": "true",
+          "fb:app_id": "1401488693436528",
+          "octolytics-dimension-repository_network_root_id": "14450555",
+          "octolytics-dimension-repository_nwo": "SIB-Colombia/rnc_app",
+          "viewport": "width=device-width",
+          "twitter:description": "National Colection Register. Contribute to SIB-Colombia/rnc_app development by creating an account on GitHub.",
+          "route-controller": "blob",
+          "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+          "og:url": "https://github.com/SIB-Colombia/rnc_app/blob/master/db/backup_rncdb.sql"
+        }
+      ],
+      "cse_image": [
+        {
+          "src": "https://opengraph.githubassets.com/99b4eadbe2ab2211dc189e05a8c7eacdb0f8587c5b5624d1ee345a9f667b45b2/SIB-Colombia/rnc_app"
+        }
+      ]
+    }
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "smid_stage_area.sql in intercambio/BD – Mapa Industrial ...",
+    "htmlTitle": "smid_stage_area.sql in intercambio/BD – Mapa Industrial ...",
+    "link": "https://mpv.cenditel.gob.ve/intercambio/browser/intercambio/BD/smid_stage_area.sql?rev=3d73865b3fbbd4a37d36e3ca93c50856af0f6449",
+    "displayLink": "mpv.cenditel.gob.ve",
+    "snippet": "... 100755. File size: 26.2 KB. Line. 1, -- MySQL dump 10.13 Distrib 5.5.31, for debian-linux-gnu (x86_64). 2, --. 3, -- Host: localhost Database: stage_area. 4 ...",
+    "htmlSnippet": "... 100755. File size: 26.2 KB. Line. 1, -- <b>MySQL dump</b> 10.13 Distrib 5.5.31, for debian-linux-gnu (x86_64). 2, --. 3, -- Host: localhost Database: stage_area. 4&nbsp;...",
+    "formattedUrl": "https://mpv.cenditel.gob.ve/intercambio/browser/.../smid_stage_area.sql?rev...",
+    "htmlFormattedUrl": "https://mpv.cenditel.gob.ve/intercambio/browser/.../smid_stage_area.sql?rev...",
+    "pagemap": {
+      "cse_thumbnail": [
+        {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7cc17OhTjH5rlUejk1G8I8xIfOVXlHjT4lt4GBgnD6Qp40xSzTs33cFw&s",
+          "width": "180",
+          "height": "97"
+        }
+      ],
+      "cse_image": [
+        {
+          "src": "https://mpv.cenditel.gob.ve/intercambio/chrome/site/logo_cenditel.png"
+        }
+      ]
+    }
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora ...",
+    "htmlTitle": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora ...",
+    "link": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+    "displayLink": "github.com",
+    "snippet": "Foundation for Kids, Form F200 - Python/Django. Contribute to ivancarrascoq/LaProtectora development by creating an account on GitHub.",
+    "htmlSnippet": "Foundation for Kids, Form F200 - Python/Django. Contribute to ivancarrascoq/LaProtectora development by creating an account on GitHub.",
+    "formattedUrl": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+    "htmlFormattedUrl": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+    "pagemap": {
+      "cse_thumbnail": [
+        {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGXPsm3Pb_DNPaX-IknHtqtR9y6JQYNES2f9PVCnZgUPGdzdB_kRiuLPpG&s",
+          "width": "318",
+          "height": "159"
+        }
+      ],
+      "softwaresourcecode": [
+        {
+          "author": "ivancarrascoq",
+          "name": "LaProtectora"
+        }
+      ],
+      "metatags": [
+        {
+          "octolytics-url": "https://collector.github.com/github/collect",
+          "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql",
+          "og:image": "https://opengraph.githubassets.com/71940177a2f882df424dd4bb830997a40f80db2a0fb6963e6d54fb1a50586b27/ivancarrascoq/LaProtectora",
+          "twitter:card": "summary_large_image",
+          "og:image:width": "1200",
+          "theme-color": "#1e2327",
+          "og:site_name": "GitHub",
+          "hovercard-subject-tag": "repository:106872125",
+          "turbo-body-classes": "logged-out env-production page-responsive",
+          "html-safe-nonce": "239c3ef558ef9e1cce652c627aec6e594db13e67c891fd331d0dc2107c47983e",
+          "expected-hostname": "github.com",
+          "og:description": "Foundation for Kids, Form F200 - Python/Django. Contribute to ivancarrascoq/LaProtectora development by creating an account on GitHub.",
+          "twitter:image": "https://opengraph.githubassets.com/71940177a2f882df424dd4bb830997a40f80db2a0fb6963e6d54fb1a50586b27/ivancarrascoq/LaProtectora",
+          "browser-errors-url": "https://api.github.com/_private/browser/errors",
+          "octolytics-dimension-user_login": "ivancarrascoq",
+          "hostname": "github.com",
+          "twitter:site": "@github",
+          "browser-stats-url": "https://api.github.com/_private/browser/stats",
+          "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+          "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5MTU1OjM4QTA4NjpBNzMxMTk6RTBGQzgyOjY3RDkwQzA4IiwidmlzaXRvcl9pZCI6IjYzMzM1NDM3NTYzNzAzNDkwNjUiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==",
+          "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+          "octolytics-dimension-repository_id": "106872125",
+          "octolytics-dimension-repository_network_root_nwo": "ivancarrascoq/LaProtectora",
+          "twitter:title": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora",
+          "og:image:alt": "Foundation for Kids, Form F200 - Python/Django. Contribute to ivancarrascoq/LaProtectora development by creating an account on GitHub.",
+          "og:type": "object",
+          "og:title": "LaProtectora/laprotectora.sql at master · ivancarrascoq/LaProtectora",
+          "visitor-hmac": "3693cb5306ad34a59074feec48bbcf0ec13d63f7cd591a73c8bb28ff4d76e77d",
+          "og:image:height": "600",
+          "turbo-cache-control": "no-preview",
+          "route-action": "show",
+          "request-id": "9155:38A086:A73119:E0FC82:67D90C08",
+          "analytics-location": "/<user-name>/<repo-name>/blob/show",
+          "color-scheme": "light dark",
+          "octolytics-dimension-repository_is_fork": "false",
+          "go-import": "github.com/ivancarrascoq/LaProtectora git https://github.com/ivancarrascoq/LaProtectora.git",
+          "octolytics-dimension-user_id": "1585753",
+          "octolytics-dimension-repository_public": "true",
+          "fb:app_id": "1401488693436528",
+          "octolytics-dimension-repository_network_root_id": "106872125",
+          "octolytics-dimension-repository_nwo": "ivancarrascoq/LaProtectora",
+          "viewport": "width=device-width",
+          "twitter:description": "Foundation for Kids, Form F200 - Python/Django. Contribute to ivancarrascoq/LaProtectora development by creating an account on GitHub.",
+          "route-controller": "blob",
+          "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+          "og:url": "https://github.com/ivancarrascoq/LaProtectora/blob/master/laprotectora.sql"
+        }
+      ],
+      "cse_image": [
+        {
+          "src": "https://opengraph.githubassets.com/71940177a2f882df424dd4bb830997a40f80db2a0fb6963e6d54fb1a50586b27/ivancarrascoq/LaProtectora"
+        }
+      ]
+    }
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "swad-core/sql/degrees.sql at master · acanas/swad-core · GitHub",
+    "htmlTitle": "swad-core/sql/degrees.sql at master · acanas/swad-core · GitHub",
+    "link": "https://github.com/acanas/swad-core/blob/master/sql/degrees.sql",
+    "displayLink": "github.com",
+    "snippet": "Code. Blame. 60 lines (53 loc) · 269 KB. Raw. -- MySQL dump 10.13 Distrib 5.1.73, for redhat-linux-gnu (x86_64) -- -- Host: localhost Database: swad ...",
+    "htmlSnippet": "Code. Blame. 60 lines (53 loc) · 269 KB. Raw. -- <b>MySQL dump</b> 10.13 Distrib 5.1.73, for redhat-linux-gnu (x86_64) -- -- Host: localhost Database: swad&nbsp;...",
+    "formattedUrl": "https://github.com/acanas/swad-core/blob/master/sql/degrees.sql",
+    "htmlFormattedUrl": "https://github.com/acanas/swad-core/blob/master/sql/degrees.sql",
+    "pagemap": {
+      "softwaresourcecode": [
+        {
+          "author": "acanas",
+          "name": "swad-core"
+        }
+      ],
+      "metatags": [
+        {
+          "octolytics-url": "https://collector.github.com/github/collect",
+          "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/acanas/swad-core/blob/master/sql/degrees.sql",
+          "og:image": "https://opengraph.githubassets.com/6e43397e802674989f07ca6330c9215a2cb2143e1df4dbd305ec96371736cd8e/acanas/swad-core",
+          "twitter:card": "summary_large_image",
+          "og:image:width": "1200",
+          "theme-color": "#1e2327",
+          "og:site_name": "GitHub",
+          "hovercard-subject-tag": "repository:27399840",
+          "turbo-body-classes": "logged-out env-production page-responsive",
+          "release": "c452c9dda983c67755073a578000a324ee049ecd",
+          "html-safe-nonce": "bb3357aa94028f2a888601a4087ad0d32ba0b58cd54ceae4bc08c52b6e9327db",
+          "expected-hostname": "github.com",
+          "og:description": "Main core for SWAD platform (Social Workspace At a Distance) - acanas/swad-core",
+          "twitter:image": "https://opengraph.githubassets.com/6e43397e802674989f07ca6330c9215a2cb2143e1df4dbd305ec96371736cd8e/acanas/swad-core",
+          "browser-errors-url": "https://api.github.com/_private/browser/errors",
+          "octolytics-dimension-user_login": "acanas",
+          "hostname": "github.com",
+          "twitter:site": "@github",
+          "browser-stats-url": "https://api.github.com/_private/browser/stats",
+          "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+          "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBQUE2OjE1OUI4NjoxQTk5MzQyOjIyQTk5NjM6NjdERjRGNjUiLCJ2aXNpdG9yX2lkIjoiODkxNDA4MzMzNDcxNDI0OTA2MiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9",
+          "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+          "octolytics-dimension-repository_id": "27399840",
+          "octolytics-dimension-repository_network_root_nwo": "acanas/swad-core",
+          "twitter:title": "swad-core/sql/degrees.sql at master · acanas/swad-core",
+          "og:image:alt": "Main core for SWAD platform (Social Workspace At a Distance) - acanas/swad-core",
+          "og:type": "object",
+          "og:title": "swad-core/sql/degrees.sql at master · acanas/swad-core",
+          "visitor-hmac": "1adc00dc1b6c60d285d2a45ad11757b3242fc8a30314aa7f2c066f2438b7dd14",
+          "og:image:height": "600",
+          "turbo-cache-control": "no-preview",
+          "route-action": "show",
+          "request-id": "AAA6:159B86:1A99342:22A9963:67DF4F65",
+          "analytics-location": "/<user-name>/<repo-name>/blob/show",
+          "color-scheme": "light dark",
+          "octolytics-dimension-repository_is_fork": "false",
+          "go-import": "github.com/acanas/swad-core git https://github.com/acanas/swad-core.git",
+          "octolytics-dimension-user_id": "9986986",
+          "octolytics-dimension-repository_public": "true",
+          "fb:app_id": "1401488693436528",
+          "octolytics-dimension-repository_network_root_id": "27399840",
+          "octolytics-dimension-repository_nwo": "acanas/swad-core",
+          "viewport": "width=device-width",
+          "twitter:description": "Main core for SWAD platform (Social Workspace At a Distance) - acanas/swad-core",
+          "route-controller": "blob",
+          "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+          "og:url": "https://github.com/acanas/swad-core/blob/master/sql/degrees.sql"
+        }
+      ],
+      "cse_image": [
+        {
+          "src": "https://opengraph.githubassets.com/6e43397e802674989f07ca6330c9215a2cb2143e1df4dbd305ec96371736cd8e/acanas/swad-core"
+        }
+      ]
+    }
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Index of /backup",
+    "htmlTitle": "<b>Index of</b> /<b>backup</b>",
+    "link": "https://www.itivirtual.edu.ec/backup/",
+    "displayLink": "www.itivirtual.edu.ec",
+    "snippet": "Index of /backup. Name · Last modified · Size · Description · Parent Directory, -. backup.class.php, 2018-12-09 19:10, 5.8K. backup.php, 2018-12-09 19:10, 6.5K.",
+    "htmlSnippet": "Index of /<b>backup</b>. Name &middot; Last modified &middot; Size &middot; Description &middot; Parent Directory, -. <b>backup</b>.class.php, 2018-12-09 19:10, 5.8K. <b>backup</b>.php, 2018-12-09 19:10, 6.5K.",
+    "formattedUrl": "https://www.itivirtual.edu.ec/backup/",
+    "htmlFormattedUrl": "https://www.itivirtual.edu.ec/<b>backup</b>/"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Index of /backup/util/destinations",
+    "htmlTitle": "<b>Index of</b> /<b>backup</b>/util/destinations",
+    "link": "http://moodle.bt.utp.ac.pa/backup/util/destinations/",
+    "displayLink": "moodle.bt.utp.ac.pa",
+    "snippet": "Index of /backup/util/destinations. Parent Directory · tests/",
+    "htmlSnippet": "Index of /<b>backup</b>/util/destinations. Parent Directory &middot; tests/",
+    "formattedUrl": "http://moodle.bt.utp.ac.pa/backup/util/destinations/",
+    "htmlFormattedUrl": "http://moodle.bt.utp.ac.pa/<b>backup</b>/util/destinations/"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Index of /backup-core",
+    "htmlTitle": "<b>Index of</b> /<b>backup</b>-core",
+    "link": "https://www.ganesha.uy/backup-core/",
+    "displayLink": "www.ganesha.uy",
+    "snippet": "Index of /backup-core. Name · Last modified · Size · Description · Parent Directory, -. 02_10_23/, 2023-09-28 17:27, -. 05_08_2024/, 2024-08-05 19:14, -.",
+    "htmlSnippet": "Index of /<b>backup</b>-core. Name &middot; Last modified &middot; Size &middot; Description &middot; Parent Directory, -. 02_10_23/, 2023-09-28 17:27, -. 05_08_2024/, 2024-08-05 19:14, -.",
+    "formattedUrl": "https://www.ganesha.uy/backup-core/",
+    "htmlFormattedUrl": "https://www.ganesha.uy/<b>backup</b>-core/"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Index of /backup/converter/moodle1",
+    "htmlTitle": "<b>Index of</b> /<b>backup</b>/converter/moodle1",
+    "link": "https://cursosenlinea.scjn.gob.mx/backup/converter/moodle1/",
+    "displayLink": "cursosenlinea.scjn.gob.mx",
+    "snippet": "Index of /backup/converter/moodle1. [ICO], Name · Last modified · Size · Description. [PARENTDIR], Parent Directory, -. [TXT], backuplib.php, 2021-08-03 20:18 ...",
+    "htmlSnippet": "Index of /<b>backup</b>/converter/moodle1. [ICO], Name &middot; Last modified &middot; Size &middot; Description. [PARENTDIR], Parent Directory, -. [TXT], backuplib.php, 2021-08-03 20:18&nbsp;...",
+    "formattedUrl": "https://cursosenlinea.scjn.gob.mx/backup/converter/moodle1/",
+    "htmlFormattedUrl": "https://cursosenlinea.scjn.gob.mx/<b>backup</b>/converter/moodle1/"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Index of /ocw/admin/tool/log/store/standard/backup/moodle2",
+    "htmlTitle": "<b>Index of</b> /ocw/admin/tool/log/store/standard/<b>backup</b>/moodle2",
+    "link": "https://www.icesi.edu.co/ocw/admin/tool/log/store/standard/backup/moodle2/",
+    "displayLink": "www.icesi.edu.co",
+    "snippet": "Index of /ocw/admin/tool/log/store/standard/backup/moodle2. Parent Directory · backup_logstore_standard_subplugin.class.php ...",
+    "htmlSnippet": "Index of /ocw/admin/tool/log/store/standard/<b>backup</b>/moodle2. Parent Directory &middot; backup_logstore_standard_subplugin.class.php&nbsp;...",
+    "formattedUrl": "https://www.icesi.edu.co/ocw/admin/tool/log/store/.../backup/moodle2/",
+    "htmlFormattedUrl": "https://www.icesi.edu.co/ocw/admin/tool/log/store/.../<b>backup</b>/moodle2/"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Index of /wp-content/uploads/iw-backup",
+    "htmlTitle": "<b>Index of</b> /wp-content/uploads/iw-<b>backup</b>",
+    "link": "https://www.policia.gob.ni/wp-content/uploads/iw-backup/",
+    "displayLink": "www.policia.gob.ni",
+    "snippet": "Index of /wp-content/uploads/iw-backup. [ICO], Name · Last modified · Size · Description. [PARENTDIR], Parent Directory, -. [DIR], 2017/, 2017-03-22 16:08, -",
+    "htmlSnippet": "Index of /wp-content/uploads/iw-<b>backup</b>. [ICO], Name &middot; Last modified &middot; Size &middot; Description. [PARENTDIR], Parent Directory, -. [DIR], 2017/, 2017-03-22 16:08, -",
+    "formattedUrl": "https://www.policia.gob.ni/wp-content/uploads/iw-backup/",
+    "htmlFormattedUrl": "https://www.policia.gob.ni/wp-content/uploads/iw-<b>backup</b>/"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Index of /wp-content/uploads/backup/2019/04",
+    "htmlTitle": "<b>Index of</b> /wp-content/uploads/<b>backup</b>/2019/04",
+    "link": "https://www.jumpin.com.mx/wp-content/uploads/backup/2019/04/",
+    "displayLink": "www.jumpin.com.mx",
+    "snippet": "Index of /wp-content/uploads/backup/2019/04. Name Last modified Size Description · Parent Directory - 20479943_11487809918..> 2019-12-28 13:39 29K 5.jpeg 2019 ...",
+    "htmlSnippet": "Index of /wp-content/uploads/<b>backup</b>/2019/04. Name Last modified Size Description &middot; Parent Directory - 20479943_11487809918..&gt; 2019-12-28 13:39 29K 5.jpeg 2019&nbsp;...",
+    "formattedUrl": "https://www.jumpin.com.mx/wp-content/uploads/backup/2019/04/",
+    "htmlFormattedUrl": "https://www.jumpin.com.mx/wp-content/uploads/<b>backup</b>/2019/04/"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Index of /ocw/admin/tool/log/backup/moodle2",
+    "htmlTitle": "<b>Index of</b> /ocw/admin/tool/log/<b>backup</b>/moodle2",
+    "link": "https://www.icesi.edu.co/ocw/admin/tool/log/backup/moodle2/",
+    "displayLink": "www.icesi.edu.co",
+    "snippet": "Index of /ocw/admin/tool/log/backup/moodle2. Parent Directory · backup_tool_log_logstore_subplugin.class.php ...",
+    "htmlSnippet": "Index of /ocw/admin/tool/log/<b>backup</b>/moodle2. Parent Directory &middot; backup_tool_log_logstore_subplugin.class.php&nbsp;...",
+    "formattedUrl": "https://www.icesi.edu.co/ocw/admin/tool/log/backup/moodle2/",
+    "htmlFormattedUrl": "https://www.icesi.edu.co/ocw/admin/tool/log/<b>backup</b>/moodle2/"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Index of /question/bank/comment/backup/moodle2",
+    "htmlTitle": "<b>Index of</b> /question/bank/comment/<b>backup</b>/moodle2",
+    "link": "https://cvingquimica.umsa.edu.bo/question/bank/comment/backup/moodle2/",
+    "displayLink": "cvingquimica.umsa.edu.bo",
+    "snippet": "Index of /question/bank/comment/backup/moodle2. [ICO], Name · Last modified · Size · Description. [PARENTDIR], Parent Directory, -. [ ] ...",
+    "htmlSnippet": "Index of /question/bank/comment/<b>backup</b>/moodle2. [ICO], Name &middot; Last modified &middot; Size &middot; Description. [PARENTDIR], Parent Directory, -. [ ]&nbsp;...",
+    "formattedUrl": "https://cvingquimica.umsa.edu.bo/question/bank/.../backup/moodle2/",
+    "htmlFormattedUrl": "https://cvingquimica.umsa.edu.bo/question/bank/.../<b>backup</b>/moodle2/"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Index of /question/bank/comment/backup/moodle2",
+    "htmlTitle": "<b>Index of</b> /question/bank/comment/<b>backup</b>/moodle2",
+    "link": "https://www.aspacampus.es/question/bank/comment/backup/moodle2/",
+    "displayLink": "www.aspacampus.es",
+    "snippet": "Index of /question/bank/comment/backup/moodle2. Name · Last modified · Size · Description · Parent Directory, -. backup_qbank_comment..> 2025-03-28 17:54, 2.4K.",
+    "htmlSnippet": "Index of /question/bank/comment/<b>backup</b>/moodle2. Name &middot; Last modified &middot; Size &middot; Description &middot; Parent Directory, -. backup_qbank_comment..&gt; 2025-03-28 17:54, 2.4K.",
+    "formattedUrl": "https://www.aspacampus.es/question/bank/comment/backup/moodle2/",
+    "htmlFormattedUrl": "https://www.aspacampus.es/question/bank/comment/<b>backup</b>/moodle2/"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Untitled",
+    "htmlTitle": "Untitled",
+    "link": "http://189.240.71.251/.env",
+    "displayLink": "189.240.71.251",
+    "snippet": "... DB_PASSWORD=Tsa.sga.5790 BROADCAST_DRIVER=log CACHE_DRIVER=file QUEUE_CONNECTION=sync SESSION_DRIVER=file SESSION_LIFETIME=120 REDIS_HOST=127.0.0.1 ...",
+    "htmlSnippet": "... <b>DB_PASSWORD</b>=Tsa.sga.5790 BROADCAST_DRIVER=log CACHE_DRIVER=file QUEUE_CONNECTION=sync SESSION_DRIVER=file SESSION_LIFETIME=120 REDIS_HOST=127.0.0.1&nbsp;...",
+    "formattedUrl": "http://189.240.71.251/.env",
+    "htmlFormattedUrl": "http://189.240.71.251/.env",
+    "mime": "text/plain",
+    "fileFormat": "text/plain"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Untitled",
+    "htmlTitle": "Untitled",
+    "link": "http://80.244.187.186.srvlist.ukfast.net/.env",
+    "displayLink": "80.244.187.186.srvlist.ukfast.net",
+    "snippet": "... DB_PASSWORD=lk6mW6Odpusb BROADCAST_DRIVER=log CACHE_DRIVER=file SESSION_DRIVER=file QUEUE_DRIVER=sync REDIS_HOST=127.0.0.1 REDIS_PASSWORD=null REDIS_PORT ...",
+    "htmlSnippet": "... <b>DB_PASSWORD</b>=lk6mW6Odpusb BROADCAST_DRIVER=log CACHE_DRIVER=file SESSION_DRIVER=file QUEUE_DRIVER=sync REDIS_HOST=127.0.0.1 REDIS_PASSWORD=null REDIS_PORT&nbsp;...",
+    "formattedUrl": "http://80.244.187.186.srvlist.ukfast.net/.env",
+    "htmlFormattedUrl": "http://80.244.187.186.srvlist.ukfast.net/.env",
+    "mime": "text/plain",
+    "fileFormat": "text/plain"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Untitled",
+    "htmlTitle": "Untitled",
+    "link": "https://sistemagent.com:8081/adal2404/dsai-erp-API-gent/raw/58e441ce3263bf8fba6019108903f2f00f3c81bd/.env",
+    "displayLink": "sistemagent.com",
+    "snippet": "... DB_PASSWORD='04082011' COMMENTS_CONNECTION=mysql COMMENTS_HOST=localhost COMMENTS_PORT=3308 COMMENTS_DATABASE='sig_erp_demo' COMMENTS_USERNAME='root ...",
+    "htmlSnippet": "... <b>DB_PASSWORD</b>=&#39;04082011&#39; COMMENTS_CONNECTION=mysql COMMENTS_HOST=localhost COMMENTS_PORT=3308 COMMENTS_DATABASE=&#39;sig_erp_demo&#39; COMMENTS_USERNAME=&#39;root&nbsp;...",
+    "formattedUrl": "https://sistemagent.com:8081/adal2404/dsai-erp-API-gent/raw/.../.env",
+    "htmlFormattedUrl": "https://sistemagent.com:8081/adal2404/dsai-erp-API-gent/raw/.../.env",
+    "mime": "text/plain",
+    "fileFormat": "text/plain"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Untitled",
+    "htmlTitle": "Untitled",
+    "link": "https://www.sucerp.com.ar/.env",
+    "displayLink": "www.sucerp.com.ar",
+    "formattedUrl": "https://www.sucerp.com.ar/.env",
+    "htmlFormattedUrl": "https://www.sucerp.com.ar/.env"
+  }
+]

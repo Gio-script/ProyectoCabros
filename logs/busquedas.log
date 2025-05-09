@@ -1,0 +1,10 @@
+2025-04-14 07:16:35,124 - INFO - API Key y Search Engine ID cargados correctamente.
+2025-04-14T07:16:35.125702 - filetype:sql "MySQL dump"
+2025-04-14T07:16:35.500440 - intitle:"index of" "backup"
+2025-04-14T07:16:35.646096 - filetype:env DB_PASSWORD
+2025-04-14 07:16:35,942 - INFO - [✓] Resultados guardados en json/results_2025-04-14_07-16-35.json
+2025-04-14 07:24:10,781 - INFO - API Key y Search Engine ID cargados correctamente.
+2025-04-14T07:24:10.782020 - filetype:sql "MySQL dump"
+2025-04-14T07:24:10.916894 - intitle:"index of" "backup"
+2025-04-14T07:24:11.309872 - filetype:env DB_PASSWORD
+2025-04-14 07:24:11,685 - INFO - [✓] Resultados guardados en json/results_2025-04-14_07-24-11.json
